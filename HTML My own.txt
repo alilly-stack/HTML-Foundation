@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring the Cosmos: A Guide to Modern Astronomy</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Exploring the Cosmos</h1>
+        <p>A journey through space, stars, and humanity's quest to understand the universe.</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About the Mission</a></li>
+                <li><a href="#discoveries">Major Scientific Discoveries</a></li>
+                <li><a href="#fun-facts">Space Facts</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main>
+
+        <!-- Section 1: Introduction -->
+        <section id="about">
+            <h2>Why We Look to the Stars</h2>
+            <p>For thousands of years, humans have looked up at the night sky with wonder. Astronomy allows us to explore our origins, search for life beyond Earth, and understand the fundamental laws of physics that govern the universe.</p>
+
+            <figure>
+                <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa" alt="A high-resolution satellite view of planet Earth glowing in dark space with visible atmospheric lights">
+                <figcaption>Earth observed from orbit, highlighting the fragile ecosystem we call home.</figcaption>
+            </figure>
+        </section>
+
+        <!-- Section 2: Major Discoveries -->
+        <section id="discoveries">
+            <h2>Milestones in Modern Astronomy</h2>
+            <p>Advancements in space telescopes and planetary probes have unlocked incredible mysteries over the past few decades.</p>
+
+            <article>
+                <h3>Exoplanet Detection</h3>
+                <p>Astronomers have confirmed the existence of thousands of planets orbiting stars outside our solar system, many of which reside in habitable zones where liquid water could exist.</p>
+            </article>
+
+            <article>
+                <h3>Gravitational Waves</h3>
+                <p>First observed in 2015, gravitational waves—ripples in spacetime caused by colliding black holes—opened an entirely new way to "hear" cosmic events.</p>
+            </article>
+
+            <article>
+                <h3>Deep Space Imagery</h3>
+                <p>Modern observatories, such as the James Webb Space Telescope, capture infrared light from galaxies that formed over 13 billion years ago, near the beginning of time itself.</p>
+            </article>
+        </section>
+
+        <!-- Section 3: List Section -->
+        <section id="fun-facts">
+            <h2>Fascinating Universe Facts</h2>
+            <p>Here are a few extraordinary facts about the cosmos:</p>
+            <ol>
+                <li>One day on Venus is longer than one full year on Venus.</li>
+                <li>Neutron stars are so dense that a single teaspoon of their material would weigh about 6 billion tons on Earth.</li>
+                <li>There are more stars in the observable universe than grains of sand on all of Earth's beaches combined.</li>
+                <li>The light from the nearest star system, Alpha Centauri, takes over 4 years to reach Earth.</li>
+            </ol>
+        </section>
+
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2026 Astronomy Exploration Project. Designed with semantic HTML.</p>
+    </footer>
+
+</body>
+</html>
